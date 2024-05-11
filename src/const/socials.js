@@ -22,11 +22,6 @@ export const SOCIALS = [
   },
 
   {
-    icon: './images/socials/whitepaper.png',
-    url: `https://fungifungi.art/whitepaper.pdf`
-  },
-
-  {
     icon: './images/socials/dextools.png',
     url: `https://www.dextools.io/app/en/base/pair-explorer/0x3ad33cb275c9c48d5b91d5ed6f1afeb6d8b6693c?t=1714325961268`
   },
