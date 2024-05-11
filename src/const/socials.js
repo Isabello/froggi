@@ -12,13 +12,13 @@ export const SOCIALS = [
   },
 
   {
-    icon: './images/socials/github.png',
-    url: 'https://github.com/Isabello/froggi'
+    icon: './images/socials/etherscan.png',
+    url: `https://basescan.org/token/${CONTRACTS.token.address}`
   },
 
   {
-    icon: './images/socials/etherscan.png',
-    url: `https://basescan.org/token/${CONTRACTS.token.address}`
+    icon: './images/socials/market.png',
+    url: `https://inscriptions.market/collections/0x88a78c5035bdc8c9a8bb5c029e6cfcdd14b822fe`
   },
 
   {
