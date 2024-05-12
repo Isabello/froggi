@@ -67,8 +67,8 @@ import { onMounted, ref, watch } from 'vue'
 import { useUserStore } from '@/stores'
 import { connect } from '@/services/user'
 
-const HOLDER_AMOUNT_PER_PAGE = 3
-const LOAD_MORE_TIMEOUT = 3
+const HOLDER_AMOUNT_PER_PAGE = 2
+const LOAD_MORE_TIMEOUT = 5
 
 const userStore = useUserStore()
 
