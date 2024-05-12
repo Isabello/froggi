@@ -3,7 +3,7 @@ import { CONTRACTS } from '@/const/contracts'
 export const SOCIALS = [
   {
     icon: './images/socials/whitepaper.png',
-    url: 'https://froggi.net/public/Frogpaper.pdf'
+    url: './Frogpaper.pdf'
   },
 
   {
