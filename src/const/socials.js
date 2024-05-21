@@ -35,4 +35,8 @@ export const SOCIALS = [
     icon: './images/socials/dexscreener.png',
     url: `https://dexscreener.com/base/0x3ad33cb275c9c48d5b91d5ed6f1afeb6d8b6693c`
   },
+  {
+    icon: './images/socials/coingecko.png',
+    url: `https://www.geckoterminal.com/base/pools/0x3ad33cb275c9c48d5b91d5ed6f1afeb6d8b6693c`
+  },
 ]
